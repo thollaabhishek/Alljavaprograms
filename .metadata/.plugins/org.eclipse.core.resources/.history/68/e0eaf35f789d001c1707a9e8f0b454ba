@@ -1,0 +1,9 @@
+package questions;
+
+public class ThreadCreation1Prog {
+
+	public ThreadCreation1Prog() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

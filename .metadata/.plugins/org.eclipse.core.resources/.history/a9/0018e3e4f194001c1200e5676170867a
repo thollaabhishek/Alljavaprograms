@@ -1,0 +1,16 @@
+package progam.test;
+
+public class Test {
+
+	public static void main(String[] args) {
+	int age =24;
+	long distance = 232454374346374633L;
+	float liters = 1.25F;
+	char gender = 'm';
+	boolean abhi= true;
+	double pie = 3.167555555;
+	System.out.println("age is"+liters);
+	
+	}
+
+}

@@ -1,0 +1,9 @@
+package questions;
+
+public class TryCatchProg {
+
+	public TryCatchProg() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
