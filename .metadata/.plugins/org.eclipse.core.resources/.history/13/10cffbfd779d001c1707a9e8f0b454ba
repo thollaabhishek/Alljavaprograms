@@ -1,9 +1,0 @@
-package questions;
-
-public class TestA {
-
-	public TestA() {
-		// TODO Auto-generated constructor stub
-	}
-
-}
